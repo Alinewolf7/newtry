@@ -1,0 +1,16 @@
+h1{color: #00a3cc; 
+text-align:center;}
+html {background-color: #e6ffee;}
+h3 {color: #00a3cc;}
+h2 {color:#00a3cc}
+hr {border-width: 3px ;
+    border-style:solid;
+    border-color:rgb(203, 253, 255);
+}
+button {
+    background-color:#d8f1f5;
+    border-style:ridge;
+    border-color: #e6ffee;
+    border-radius:11px;
+    margin-left: 1590px;
+}
